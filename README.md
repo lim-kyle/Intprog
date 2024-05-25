@@ -7,3 +7,11 @@
 - JOHN JERIC ANDRADE
 - REY AARON BUAYA
 - KYLE ANDRE LIM
+
+
+Instruction to Login Automart:
+=============================
+Login Credentials:
+Username: client@gmail.com
+Password: Client@123
+=============================
