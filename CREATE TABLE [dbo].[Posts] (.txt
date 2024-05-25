@@ -1,0 +1,19 @@
+CREATE TABLE [dbo].[Posts] (
+    [Id]            INT            IDENTITY (1, 1) NOT NULL,
+    [OwnerName]     NVARCHAR (MAX) NOT NULL,
+    [OwnerContact]  NVARCHAR (MAX) NOT NULL,
+    [OwnerLocation] NVARCHAR (MAX) NOT NULL,
+    [CarName]       NVARCHAR (MAX) NOT NULL,
+    [CarYear]       NVARCHAR (MAX) NOT NULL,
+    [Mileage]       NVARCHAR (MAX) NOT NULL,
+    [CarType]       NVARCHAR (MAX) NOT NULL,
+    [HorsePower]    NVARCHAR (MAX) NOT NULL,
+    [FuelType]      NVARCHAR (MAX) NOT NULL,
+    [ImageFileName] NVARCHAR (MAX) NOT NULL,
+    [Price]         NVARCHAR (MAX) NOT NULL,
+    [CreatedAt]     DATETIME2 (7)  NOT NULL,
+    [CarBrand]      NVARCHAR (MAX) NOT NULL,
+    [SellType]      NVARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

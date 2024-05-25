@@ -1,0 +1,1421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\assets\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\about-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\af-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\af-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\af-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\af-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\af-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\af-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\call-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\details-hero-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-hero-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\details-hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\next.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\blog\\details\\pre.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\pre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\car-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\car-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\cd-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\cd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\cd-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\cd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\cd-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\cd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\cd-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\cd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\cd-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\cd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\cd-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\cd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\sm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\sm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\sm-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cars\\details\\sm-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cars\\details\\sm-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\chooseus-video.png",
+      "PackagePath": "staticwebassets\\assets\\img\\chooseus-video.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\counter-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\counter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cta\\cta-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\cta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\cta\\cta-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\cta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\car.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\feature-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\feature-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\feature-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\feature-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\feature-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\feature-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\feature-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\feature-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\feature-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\feature-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\feature\\feature-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\feature\\feature-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\latest-blog\\lb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-blog\\lb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\latest-blog\\lb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-blog\\lb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\latest-blog\\lb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-blog\\lb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\services\\services-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\services\\services-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\services-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\services\\services-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\services-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\services\\services-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services\\services-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\testimonial\\testimonial-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\testimonial\\testimonial-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\wheel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\wheel.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_car-details.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_car-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_car.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_car.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_services.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\assets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512145731971.jpg",
+      "PackagePath": "staticwebassets\\images\\20240512145731971.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512145849401.jpg",
+      "PackagePath": "staticwebassets\\images\\20240512145849401.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512154648771.jpeg",
+      "PackagePath": "staticwebassets\\images\\20240512154648771.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512160914481.png",
+      "PackagePath": "staticwebassets\\images\\20240512160914481.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512161044911.png",
+      "PackagePath": "staticwebassets\\images\\20240512161044911.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512163014654.jpg",
+      "PackagePath": "staticwebassets\\images\\20240512163014654.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512200946068.jpg",
+      "PackagePath": "staticwebassets\\images\\20240512200946068.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512201851399.jpg",
+      "PackagePath": "staticwebassets\\images\\20240512201851399.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240512203144366.png",
+      "PackagePath": "staticwebassets\\images\\20240512203144366.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240513222547953.png",
+      "PackagePath": "staticwebassets\\images\\20240513222547953.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240524220715650.jpg",
+      "PackagePath": "staticwebassets\\images\\20240524220715650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240524225918745.jpeg",
+      "PackagePath": "staticwebassets\\images\\20240524225918745.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240524230033268.jpg",
+      "PackagePath": "staticwebassets\\images\\20240524230033268.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\20240525004121133.jpg",
+      "PackagePath": "staticwebassets\\images\\20240525004121133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-1.jpg",
+      "PackagePath": "staticwebassets\\images\\car-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-2.jpg",
+      "PackagePath": "staticwebassets\\images\\car-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-3.jpg",
+      "PackagePath": "staticwebassets\\images\\car-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-4.jpg",
+      "PackagePath": "staticwebassets\\images\\car-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-5.jpg",
+      "PackagePath": "staticwebassets\\images\\car-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-6.jpg",
+      "PackagePath": "staticwebassets\\images\\car-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\images\\car-7.jpg",
+      "PackagePath": "staticwebassets\\images\\car-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\about-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\af-1.png",
+      "PackagePath": "staticwebassets\\img\\about\\af-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\af-2.png",
+      "PackagePath": "staticwebassets\\img\\about\\af-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\af-3.png",
+      "PackagePath": "staticwebassets\\img\\about\\af-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\alba.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\alba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\andrade.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\andrade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\brandon.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\brandon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\buaya.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\buaya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\call-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\lim.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\lim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\alba.jpg",
+      "PackagePath": "staticwebassets\\img\\alba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\andrade.jpg",
+      "PackagePath": "staticwebassets\\img\\andrade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\details-hero-avatar.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\details-hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\blog\\details\\pre.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\pre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\buaya.jpg",
+      "PackagePath": "staticwebassets\\img\\buaya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\carlogo.png",
+      "PackagePath": "staticwebassets\\img\\carlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-5.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-6.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-7.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\car-8.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\car-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\cd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\cd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\cd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\cd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\cd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\cd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\cd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\cd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\cd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\cd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\cd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\cd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\sm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\sm-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\sm-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\sm-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cars\\details\\sm-5.jpg",
+      "PackagePath": "staticwebassets\\img\\cars\\details\\sm-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\chooseus-video.png",
+      "PackagePath": "staticwebassets\\img\\chooseus-video.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\counter-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\counter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cta\\cta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cta\\cta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\cta\\cta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cta\\cta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\car.png",
+      "PackagePath": "staticwebassets\\img\\feature\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\feature-1.png",
+      "PackagePath": "staticwebassets\\img\\feature\\feature-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\feature-2.png",
+      "PackagePath": "staticwebassets\\img\\feature\\feature-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\feature-3.png",
+      "PackagePath": "staticwebassets\\img\\feature\\feature-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\feature-4.png",
+      "PackagePath": "staticwebassets\\img\\feature\\feature-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\feature-5.png",
+      "PackagePath": "staticwebassets\\img\\feature\\feature-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\feature\\feature-6.png",
+      "PackagePath": "staticwebassets\\img\\feature\\feature-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\latest-blog\\lb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-blog\\lb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\latest-blog\\lb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-blog\\lb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\latest-blog\\lb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-blog\\lb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\lim.jpg",
+      "PackagePath": "staticwebassets\\img\\lim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\services\\services-1.png",
+      "PackagePath": "staticwebassets\\img\\services\\services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\services\\services-2.png",
+      "PackagePath": "staticwebassets\\img\\services\\services-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\services\\services-3.png",
+      "PackagePath": "staticwebassets\\img\\services\\services-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\services\\services-4.png",
+      "PackagePath": "staticwebassets\\img\\services\\services-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonial\\testimonial-1.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\testimonial-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonial\\testimonial-2.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\testimonial-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\img\\wheel.png",
+      "PackagePath": "staticwebassets\\img\\wheel.png"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_car-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_car-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_car.scss",
+      "PackagePath": "staticwebassets\\sass\\_car.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_services.scss",
+      "PackagePath": "staticwebassets\\sass\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\kylea\\Desktop\\INt\\Intprog\\WebApplication1\\WebApplication1\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

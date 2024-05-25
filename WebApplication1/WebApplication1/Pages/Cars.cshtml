@@ -1,0 +1,281 @@
+﻿@page
+@model WebApplication1.Pages.CarsModel
+
+<style>
+    .shadow {
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<div id="preloder">
+    <div class="loader"></div>
+</div>
+
+<div class="offcanvas-menu-overlay"></div>
+<div class="offcanvas-menu-wrapper">
+    <div class="offcanvas__widget">
+        <a href="#" class="primary-btn">Add Car</a>
+    </div>
+</div>
+
+<div class="breadcrumb-option set-bg" data-setbg="img/breadcrumb-bg.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Car Listing</h2>
+                    <div class="breadcrumb__links">
+                        <a href="./index.html"><i class="fa fa-home"></i> Home</a>
+                        <span>Shop Cars</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="car spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="car__sidebar border-1 shadow">
+                    <!-- Add shadow styling here -->
+                    <div class="car__filter">
+                        <h5>Sort by brand</h5>
+                        <form action="#">
+                            <select asp-for="SelectedCarBrand" onchange="this.form.submit()">
+                                <option value="">All Brands</option>
+                                <option value="Toyota">Toyota</option>
+                                <option value="Mitsubishi">Mitsubishi</option>
+                                <option value="Honda">Honda</option>
+                                <option value="Ford">Ford</option>
+                                <option value="Bentley">Bentley</option>
+                                <option value="BMW">BMW</option>
+                                <option value="Bugatti">Bugatti</option>
+                                <option value="Tesla">Tesla</option>
+                            </select>
+                            <div class="car__filter__btn">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                <div class="car__filter__option">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="car__filter__option__item">
+                                <h2>Popular</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    @foreach (var post in Model.Posts)
+                    {
+                        <div class="col-lg-4 col-md-4">
+                            <div class="car__item">
+                                <div class="car__item__pic__slider owl-carousel">
+                                    <a class="car-image"
+                                       data-bs-toggle="modal"
+                                       data-bs-target="#carDetailsModal"
+                                       data-sell-type="@post.SellType"
+                                       data-car-name="@post.CarName"
+                                       data-owner-name="@post.OwnerName"
+                                       data-owner-location="@post.OwnerLocation"
+                                       data-price="@post.Price"
+                                       data-mileage="@post.Mileage"
+                                       data-brand="@post.CarBrand"
+                                       data-horsepower="@post.HorsePower"
+                                       data-owner-contact="@post.OwnerContact"
+                                       data-car-type="@post.CarType">
+                                        <img src="images/@post.ImageFileName" alt="">
+                                    </a>
+                                </div>
+                                <div class="car__item__text">
+                                    <div class="car__item__text__inner">
+                                        <div class="label-date">@post.CarYear</div>
+                                        <div style="display: flex; align-items: center;">
+                                            <h5><a href="#">@post.CarName</a></h5>
+                                            <div style="margin-left: 100px; font-size: 12px; font-weight: 600;">@post.CarBrand</div>
+                                        </div>
+                                        <ul>
+                                            <li style="font-size: 12px;"><span>@post.Mileage</span> mi</li>
+                                            <li style="font-size: 12px;">@post.CarType</li>
+                                            <li style="font-size: 12px;"><span>@post.HorsePower</span> hp</li>
+                                        </ul>
+                                    </div>
+                                    <div class="car__item__price">
+                                        <span class="car-option">@post.SellType</span>
+                                        <h6>$@post.Price<span>/Month</span></h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="pagination__option">
+                    @for (var i = 1; i <= Model.TotalPages; i++)
+                    {
+                        <a href="?pageNumber=@i" @(Model.PageNumber == i ? "class=active" : "")>@i</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="footer set-bg" data-setbg="img/footer-bg.jpg">
+    <div class="container">
+        <div class="footer__contact">
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-4">
+                <div class="footer__about">
+                    <div class="footer__logo">
+                        <a href="#"><img src="img/footer-logo.png" alt=""></a>
+                    </div>
+                    <p>
+                        Any questions? Let us know in store at 625 Gloria Union, California, United Stated or call us
+                        on (+1) 96 123 8888
+                    </p>
+                    <div class="footer__social">
+                        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                        <a href="#" class="google"><i class="fa fa-google"></i></a>
+                        <a href="#" class="skype"><i class="fa fa-skype"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 offset-lg-1 col-md-3">
+                <div class="footer__widget">
+                    <h5>Infomation</h5>
+                    <ul>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Purchase</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Payemnt</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Shipping</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Return</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-3">
+                <div class="footer__widget">
+                    <h5>Infomation</h5>
+                    <ul>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Hatchback</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Sedan</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> SUV</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Crossover</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="footer__brand">
+                    <h5>Top Brand</h5>
+                    <ul>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Abarth</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Acura</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Alfa Romeo</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Audi</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> BMW</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Chevrolet</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Ferrari</a></li>
+                        <li><a href="#"><i class="fa fa-angle-right"></i> Honda</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer__copyright__text">
+            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+        </div>
+    </div>
+</footer>
+
+<div class="search-model">
+    <div class="h-100 d-flex align-items-center justify-content-center">
+        <div class="search-close-switch">+</div>
+        <form class="search-model-form">
+            <input type="text" id="search-input" placeholder="Search here.....">
+        </form>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="carDetailsModal" tabindex="-1" aria-labelledby="carDetailsModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="carDetailsModalLabel">Car Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12 text-center mb-4">
+                        <img id="carImage" src="" alt="Car Image" class="img-fluid">
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Sell Type:</strong> <span id="sellType"></span></p>
+                        <p><strong>Car Name:</strong> <span id="carName"></span></p>
+                        <p><strong>Name:</strong> <span id="ownerName"></span></p>
+                        <p><strong>Address:</strong> <span id="ownerLocation"></span></p>
+                        <p><strong>Contact:</strong> <span id="ownerContact"></span></p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Mileage:</strong> <span id="mileage"></span></p>
+                        <p><strong>Brand:</strong> <span id="brand"></span></p>
+                        <p><strong>Horsepower:</strong> <span id="horsepower"></span></p>
+                        <p><strong>Car Type:</strong> <span id="carType"></span></p>
+                        <p><strong>Price:</strong> <span id="price"></span></p>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <p class="text-center">If you wish you to know more about the car, please contact the email provided in the posts</p>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-beta3/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-beta3/js/bootstrap.bundle.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('.car-image').click(function () {
+            var sellType = $(this).data('sell-type');
+            var carName = $(this).data('car-name');
+            var ownerName = $(this).data('owner-name');
+            var ownerLocation = $(this).data('owner-location');
+            var price = $(this).data('price');
+            var mileage = $(this).data('mileage');
+            var brand = $(this).data('brand');
+            var horsepower = $(this).data('horsepower');
+            var ownerContact = $(this).data('owner-contact');
+            var carType = $(this).data('car-type');
+            var carImageSrc = $(this).find('img').attr('src');
+
+            $('#sellType').text(sellType);
+            $('#carName').text(carName);
+            $('#ownerName').text(ownerName);
+            $('#ownerLocation').text(ownerLocation);
+            $('#price').text(price);
+            $('#mileage').text(mileage);
+            $('#brand').text(brand);
+            $('#horsepower').text(horsepower);
+            $('#ownerContact').text(ownerContact);
+            $('#carType').text(carType);
+            $('#carImage').attr('src', carImageSrc);
+        });
+    });
+</script>

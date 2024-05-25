@@ -1,0 +1,70 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using WebApplication1.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+
+        if (User.IsInRole("admin"))
+        {
+            <nav class="header__menu">
+                <ul>
+                    <li><a asp-page="Index">Home</a></li>
+                    <li><a asp-page="Cars">Explore Cars</a></li>
+                    <li>
+                        <a href="#">Admin</a>
+                        <ul class="dropdown">
+                            <li><a asp-area="Identity" asp-page="/Account/Logout">Sign out</a></li>
+                        </ul>
+                    </li>
+                    <div class="header__nav__widget">
+                        <div class="header__nav__widget__btn">
+                        </div>
+                        <a href="/CarsCreate" class="primary-btn">Add Car</a>
+                    </div>
+                </ul>
+            </nav>
+        }
+
+        else if (User.IsInRole("client"))
+        {
+            <nav class="header__menu">
+                <ul>
+                    <li><a asp-page="Index">Home</a></li>
+                    <li><a asp-page="Cars">Explore Cars</a></li>
+                    <li>
+                        <a href="#">Account</a>
+                        <ul class="dropdown">
+                            <li><a asp-area="Identity" asp-page="/Account/Logout">Sign out</a></li>
+                        </ul>
+                    </li>
+                    <div class="header__nav__widget">
+                        <div class="header__nav__widget__btn">
+                        </div>
+                        <a href="/CarsCreate" class="primary-btn">Add Car</a>
+                    </div>
+                </ul>
+            </nav>
+
+         }
+} else
+{
+    <div style="display: flex; align-items: center;">
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+        </li>
+    </div>
+    
+}
+</ul>
+
+
+
+
+
